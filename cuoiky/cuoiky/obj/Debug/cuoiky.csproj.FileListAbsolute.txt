@@ -1,0 +1,13 @@
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.AssemblyReference.cache
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.FormLogin.resources
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.Properties.Resources.resources
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.GenerateResource.cache
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.CoreCompileInputs.cache
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\bin\Debug\cuoiky.exe.config
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\bin\Debug\cuoiky.exe
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\bin\Debug\cuoiky.pdb
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.exe
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.pdb
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.FormNhanVien.resources
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.FormTruongPhongNhanSu.resources
+C:\Users\lohoa\source\repos\cuoiky\cuoiky\obj\Debug\cuoiky.FormGiamDoc.resources
