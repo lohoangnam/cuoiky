@@ -1,34 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data.SqlClient;
-using System.Configuration;
 using System.Windows.Forms;
+using cuoiky.Controllers; // Gọi namespace Controllers
 
 namespace cuoiky
 {
     public partial class FormLogin : Form
     {
-        string constr = ConfigurationManager.ConnectionStrings["connectStr"].ConnectionString;
+        private AuthController _authController;
+
         public FormLogin()
         {
             InitializeComponent();
+            _authController = new AuthController();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtUser_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        private void label1_Click(object sender, EventArgs e) { }
+        private void txtUser_TextChanged(object sender, EventArgs e) { }
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
@@ -41,65 +28,64 @@ namespace cuoiky
                 return;
             }
 
-            using (SqlConnection conn = new SqlConnection(constr))
+            // Các biến để hứng dữ liệu trả về từ Controller
+            int maNV;
+            string role;
+            string department; 
+
+            // Gọi Controller để xử lý đăng nhập
+            bool isSuccess = _authController.Login(user, pass, out maNV, out role, out department);
+
+            if (isSuccess)
             {
-                conn.Open();
-                // SỬA TẠI ĐÂY: JOIN qua bảng NhanVien để lấy MaVaiTro mới nhất
-                string sql = @"SELECT nv.MaNV, vt.TenVaiTro 
-                       FROM NguoiDungDangNhap nd
-                       JOIN NhanVien nv ON nd.MaNV = nv.MaNV
-                       JOIN VaiTro vt ON nv.MaVaiTro = vt.MaVaiTro
-                       WHERE nd.TenDangNhap = @user AND nd.MatKhau = @pass";
+                this.Hide(); // Ẩn form đăng nhập
+                Form nextForm = null;
 
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                cmd.Parameters.AddWithValue("@user", user);
-                cmd.Parameters.AddWithValue("@pass", pass);
-
-                SqlDataReader dr = cmd.ExecuteReader();
-                if (dr.Read())
+                // Tự động chuyển Form tương ứng dựa vào vai trò
+                if (role == "Giám đốc")
                 {
-                    string role = dr["TenVaiTro"].ToString();
-                    int maNV = Convert.ToInt32(dr["MaNV"]);
-
-                    this.Hide(); // Ẩn form đăng nhập
-                    Form nextForm = null;
-
-                    // Kiểm tra vai trò để khởi tạo Form tương ứng
-                    switch (role)
-                    {
-                        case "Giám đốc":
-                            nextForm = new FormGiamDoc(maNV);
-                            break;
-                        case "Trưởng phòng nhân sự":
-                            nextForm = new FormTruongPhongNhanSu(maNV);
-                            break;
-                        case "Nhân viên phòng nhân sự":
-                            nextForm = new FormNhanSu(maNV);
-                            break;
-                        case "Nhân viên phòng tài vụ":
-                            nextForm = new FormTaiVu(maNV);
-                            break;
-                        case "Trưởng phòng":
-                            nextForm = new FormTruongPhong(maNV);
-                            break;
-                        default:
-                            nextForm = new FormNhanVien(maNV);
-                            break;
-                    }
-
-                    if (nextForm != null)
-                    {
-                        // Khi Form chức năng đóng lại, hiện lại Form đăng nhập
-                        nextForm.ShowDialog();
-                        this.Show();
-                    }
+                    nextForm = new FormGiamDoc(maNV);
+                }
+                else if (role == "Nhân viên")
+                {
+                    if (department == "Phòng Nhân Sự")
+                        nextForm = new FormNhanSu(maNV);
+                    else if (department == "Phòng Tài Vụ")
+                        nextForm = new FormTaiVu(maNV);
+                    else
+                        nextForm = new FormNhanVien(maNV); 
+                }
+                else if (role == "Trưởng phòng" || role == "Trưởng phòng nhân sự") 
+                {
+                    if (department == "Phòng Nhân Sự")
+                        nextForm = new FormTruongPhongNhanSu(maNV);
+                    else if (department == "Phòng Tài Vụ")
+                        nextForm = new FormTruongPhongTaiVu(maNV);
+                    else
+                        nextForm = new FormTruongPhong(maNV); 
                 }
                 else
                 {
-                    MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu!");
+                    MessageBox.Show($"Chưa cấu hình Form cho Vai trò: '{role}' - Phòng: '{department}'");
+                    this.Show();
+                    return;
+                }
+
+                if (nextForm != null)
+                {
+                    nextForm.ShowDialog();
+                    this.Show(); // Hiện lại form login khi form kia đóng
                 }
             }
+            else
+            {
+                MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu!", "Lỗi đăng nhập", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
-    
 }

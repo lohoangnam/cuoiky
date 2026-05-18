@@ -1,0 +1,832 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|d:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\truongphongnhansucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\truongphongnhansucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\nhansucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\nhansucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\truongphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\truongphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\taivucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\taivucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\giamdoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\giamdoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\truongphongnhansurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\truongphongnhansurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\nhansurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\nhansurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\controller\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\controller\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\taivurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\taivurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|d:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formthemnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formthemnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongnhansu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongnhansu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formgiamdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formgiamdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formgiamdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formgiamdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongnhansu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongnhansu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongtaivu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongtaivu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphongtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphongtaivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formgiamdoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formgiamdoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\giamdocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\giamdocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhansu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhansu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\repositories\\truongphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\repositories\\truongphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formgiamdoc.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formgiamdoc.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphong.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphong.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formtruongphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formtruongphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\formnhanvien1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8851DCA8-2E33-4A94-80AB-242BD2C04080}|cuoiky\\cuoiky.csproj|solutionrelative:cuoiky\\formnhanvien1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNhanSu.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanSu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:40:12.979Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNhanSu.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanSu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.cs",
+              "RelativeToolTip": "cuoiky\\FormNhanSu.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:02:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTruongPhongNhanSu.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongNhanSu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:15:42.336Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTruongPhongNhanSu.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongNhanSu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongNhanSu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:19:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TruongPhongNhanSuController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TruongPhongNhanSuController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\TruongPhongNhanSuController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TruongPhongNhanSuController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\TruongPhongNhanSuController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:28:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanSuController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\NhanSuController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\NhanSuController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\NhanSuController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\NhanSuController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:09:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TruongPhongController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TruongPhongController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\TruongPhongController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TruongPhongController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\TruongPhongController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:57:22.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiVuController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TaiVuController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\TaiVuController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\TaiVuController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\TaiVuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:06:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiamDocController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\GiamDocController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\GiamDocController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\GiamDocController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\GiamDocController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:15:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TruongPhongNhanSuRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TruongPhongNhanSuRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\TruongPhongNhanSuRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TruongPhongNhanSuRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\TruongPhongNhanSuRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:27:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanSuRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\NhanSuRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\NhanSuRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\NhanSuRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\NhanSuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:07:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanVienRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\NhanVienRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\NhanVienRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\NhanVienRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\NhanVienRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:56:29.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Controller\\NhanVienController.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Controller\\NhanVienController.cs",
+              "RelativeToolTip": "cuoiky\\Controller\\NhanVienController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:03:07.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaiVuRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TaiVuRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\TaiVuRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TaiVuRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\TaiVuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:06:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:52:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormTruongPhongTaiVu.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongTaiVu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongTaiVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:38:55.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTaiVu.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTaiVu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTaiVu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTaiVu.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormTaiVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:31.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormThemNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormThemNhanVien.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormThemNhanVien.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAYwDYBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:37:28.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormTruongPhongNhanSu.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongNhanSu.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.resx",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongNhanSu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T18:52:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:05:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormThemNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormThemNhanVien.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:15:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormTruongPhongNhanSu.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongNhanSu.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongNhanSu.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:26:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormGiamDoc.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormGiamDoc.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormGiamDoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:40:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormLogin.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:40:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormLogin.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.cs",
+              "RelativeToolTip": "cuoiky\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:37:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:03:31.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormGiamDoc.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormGiamDoc.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.cs",
+              "RelativeToolTip": "cuoiky\\FormGiamDoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:49:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormNhanVien.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.cs",
+              "RelativeToolTip": "cuoiky\\FormNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:06:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormNhanVien1.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien1.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormNhanVien1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormTaiVu.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTaiVu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTaiVu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTaiVu.cs",
+              "RelativeToolTip": "cuoiky\\FormTaiVu.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T20:07:29.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormTruongPhong.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhong.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormTruongPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:39:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormTruongPhongNhanSu1.cs [Design]",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu1.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongNhanSu1.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongNhanSu1.cs [Design]",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongNhanSu1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:37:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormTruongPhongTaiVu.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongTaiVu.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongTaiVu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:39:54.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormTruongPhongTaiVu.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhongTaiVu.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhongTaiVu.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhongTaiVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:39:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormThemNhanVien.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormThemNhanVien.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormThemNhanVien.cs",
+              "RelativeToolTip": "cuoiky\\FormThemNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:17:55.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormGiamDoc.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormGiamDoc.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormGiamDoc.Designer.cs",
+              "ViewState": "AgIAACACAAAAAAAAAAAowD0CAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:49:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GiamDocRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\GiamDocRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\GiamDocRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\GiamDocRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\GiamDocRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:55:05.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:11:48.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormNhanVien.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien.resx",
+              "RelativeToolTip": "cuoiky\\FormNhanVien.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T06:48:14.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormNhanSu.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanSu.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.resx",
+              "RelativeToolTip": "cuoiky\\FormNhanSu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T19:05:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormLogin.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormLogin.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormLogin.resx",
+              "RelativeToolTip": "cuoiky\\FormLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T09:39:56.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormNhanSu.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanSu.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanSu.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormNhanSu.Designer.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAYwHMBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:46:30.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\App.config",
+              "RelativeDocumentMoniker": "cuoiky\\App.config",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\App.config",
+              "RelativeToolTip": "cuoiky\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-17T16:11:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TruongPhongRepository.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TruongPhongRepository.cs",
+              "RelativeDocumentMoniker": "cuoiky\\Repositories\\TruongPhongRepository.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\Repositories\\TruongPhongRepository.cs",
+              "RelativeToolTip": "cuoiky\\Repositories\\TruongPhongRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:56:50.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormGiamDoc.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormGiamDoc.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormGiamDoc.resx",
+              "RelativeToolTip": "cuoiky\\FormGiamDoc.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T17:18:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormNhanVien1.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien1.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.cs",
+              "RelativeToolTip": "cuoiky\\FormNhanVien1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:10:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormTruongPhong.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhong.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:30:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormTruongPhong.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhong.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.resx",
+              "RelativeToolTip": "cuoiky\\FormTruongPhong.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T03:38:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormTruongPhong.Designer.cs",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.Designer.cs",
+              "RelativeDocumentMoniker": "cuoiky\\FormTruongPhong.Designer.cs",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormTruongPhong.Designer.cs",
+              "RelativeToolTip": "cuoiky\\FormTruongPhong.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:04:53.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormNhanVien1.resx",
+              "DocumentMoniker": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.resx",
+              "RelativeDocumentMoniker": "cuoiky\\FormNhanVien1.resx",
+              "ToolTip": "D:\\nam_3_ki_2\\bao-mat-co-so-du-lieu\\project_final\\cuoiky\\cuoiky\\FormNhanVien1.resx",
+              "RelativeToolTip": "cuoiky\\FormNhanVien1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-17T03:09:45.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

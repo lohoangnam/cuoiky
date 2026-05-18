@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
     </Reference>
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -49,6 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\AuthController.cs" />
+    <Compile Include="Controller\GiamDocController.cs" />
+    <Compile Include="Controller\NhanSuController.cs" />
+    <Compile Include="Controller\NhanVienController.cs" />
+    <Compile Include="Controller\TaiVuController.cs" />
+    <Compile Include="Controller\TruongPhongController.cs" />
+    <Compile Include="Controller\TruongPhongNhanSuController.cs" />
     <Compile Include="FormGiamDoc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,11 +80,23 @@
     <Compile Include="FormNhanVien.Designer.cs">
       <DependentUpon>FormNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormNhanVien1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanVien1.Designer.cs">
+      <DependentUpon>FormNhanVien1.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTaiVu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormTaiVu.Designer.cs">
       <DependentUpon>FormTaiVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemNhanVien.Designer.cs">
+      <DependentUpon>FormThemNhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="FormTruongPhong.cs">
       <SubType>Form</SubType>
@@ -91,19 +110,70 @@
     <Compile Include="FormTruongPhongNhanSu.Designer.cs">
       <DependentUpon>FormTruongPhongNhanSu.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormTruongPhongNhanSu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTruongPhongNhanSu1.Designer.cs">
+      <DependentUpon>FormTruongPhongNhanSu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTruongPhongTaiVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTruongPhongTaiVu.Designer.cs">
+      <DependentUpon>FormTruongPhongTaiVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ChamCong.cs" />
+    <Compile Include="Models\ChiTietDuAn.cs" />
+    <Compile Include="Models\DuAn.cs" />
+    <Compile Include="Models\HoSoNhanVien.cs" />
+    <Compile Include="Models\LichSuHoatDong.cs" />
+    <Compile Include="Models\Luong.cs" />
+    <Compile Include="Models\NguoiDungDangNhap.cs" />
+    <Compile Include="Models\NhanVien.cs" />
+    <Compile Include="Models\NhanVien_DuAn.cs" />
+    <Compile Include="Models\PhongBan.cs" />
+    <Compile Include="Models\VaiTro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AuthRepository.cs" />
+    <Compile Include="Repositories\GiamDocRepository.cs" />
+    <Compile Include="Repositories\NhanSuRepository.cs" />
+    <Compile Include="Repositories\NhanVienRepository.cs" />
+    <Compile Include="Repositories\TaiVuRepository.cs" />
+    <Compile Include="Repositories\TruongPhongNhanSuRepository.cs" />
+    <Compile Include="Repositories\TruongPhongRepository.cs" />
     <EmbeddedResource Include="FormGiamDoc.resx">
       <DependentUpon>FormGiamDoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLogin.resx">
       <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanSu.resx">
+      <DependentUpon>FormNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormNhanVien.resx">
       <DependentUpon>FormNhanVien.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanVien1.resx">
+      <DependentUpon>FormNhanVien1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTaiVu.resx">
+      <DependentUpon>FormTaiVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemNhanVien.resx">
+      <DependentUpon>FormThemNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTruongPhong.resx">
+      <DependentUpon>FormTruongPhong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormTruongPhongNhanSu.resx">
       <DependentUpon>FormTruongPhongNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTruongPhongNhanSu1.resx">
+      <DependentUpon>FormTruongPhongNhanSu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTruongPhongTaiVu.resx">
+      <DependentUpon>FormTruongPhongTaiVu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -132,10 +202,11 @@
     <None Include="bin\Debug\Images\nam_the.jpg.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\Images\nam_the.png.png" />
+    <None Include="image\nam_the.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="utils\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
